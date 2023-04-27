@@ -1,0 +1,87 @@
+﻿<Properties StartupConfiguration="{1C4F44F6-A063-40EE-BBC8-9D0E93FE5C4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Website_BanDienThoai_Version1/Areas/Admin/Controllers/ProductSelectedForAppointmentController.cs">
+    <Files>
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Controllers/AccountController.cs" Line="136" Column="1" IsPinned="True" />
+      <File FileName="../../Downloads/InventoryManagementSystem/Tutorial Database/dbIMS.mdf" />
+      <File FileName="Website_BanDienThoai_Version1/Models/ViewModel/RegistrationViewModel.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Shared/_AccountView2.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Account/Register.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Account/Login.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Startup.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Home/Index.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/_ViewImports.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/_ViewStart.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Views/Shared/_Layout.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Account/ChangeAccount.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Models/Users.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Migrations/20191112033905_addUsers.Designer.cs" />
+      <File FileName="Website_BanDienThoai_Version1/wwwroot/dist/css/AdminLTE.css" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Controllers/UserController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Controllers/ProductsController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Controllers/ShoppingCartController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/ShoppingCart/Index.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Controllers/HomeController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Controllers/ContactController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Controllers/LaptopController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Controllers/LinhKienController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Controllers/PhoneController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Controllers/NhanvienController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Nhanvien/Index.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Nhanvien/Edit.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Shared/_AccountView1.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Home/Search.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Customer/Views/Account/AccountUser.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Category/Create.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Category/Edit.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Category/Index.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Products/Index.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/_ViewImports.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/_ViewStart.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Products/Edit.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Views/Category/Details.cshtml" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Controllers/CategoryController.cs" />
+      <File FileName="Website_BanDienThoai_Version1/Areas/Admin/Controllers/ProductSelectedForAppointmentController.cs" Line="83" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Website_BanDienThoai_Version1" expanded="True">
+            <Node name="Website_BanDienThoai_Version1" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="ProductSelectedForAppointmentController.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Customer" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Extentions" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20191112033905_addUsers.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="ViewModel" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ducduy/DOAN_FRAMEWORK/Website_BanDienThoai_Version1-4/Website_BanDienThoai_Version1/Areas/Admin/Controllers/ProductsController.cs" relfile="Website_BanDienThoai_Version1/Areas/Admin/Controllers/ProductsController.cs" line="65" column="1" />
+      <Breakpoint file="/Users/ducduy/DOAN_FRAMEWORK/Website_BanDienThoai_Version1-4/Website_BanDienThoai_Version1/Areas/Customer/Controllers/AccountController.cs" relfile="Website_BanDienThoai_Version1/Areas/Customer/Controllers/AccountController.cs" line="82" column="1" />
+      <Breakpoint file="/Users/ducduy/DOAN_FRAMEWORK/Website_BanDienThoai_Version1-4/Website_BanDienThoai_Version1/Areas/Customer/Controllers/AccountController.cs" relfile="Website_BanDienThoai_Version1/Areas/Customer/Controllers/AccountController.cs" line="136" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Website__BanDienThoai__Version1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
